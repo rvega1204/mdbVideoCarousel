@@ -1,14 +1,14 @@
-# MDB Carousel
+# MDB Video Carousel
 
 ## Description
-Ease and Clean Responsive carousel created with MDB (Material Design Bootstrap)
+Ease and Clean Responsive Video Carousel created with MDB (Material Design Bootstrap)
 
 ## Usage
 Follow the following steps and you're good to go!
 
 1: Clone repo
 ```
-git clone https://github.com/rvega1204/mdbCarousel
+git clone https://github.com/rvega1204/mdbVideoCarousel
 ```
 2: Done!
 ```
